@@ -1,0 +1,2 @@
+# auchanru
+ auchanru scraper
